@@ -6,7 +6,7 @@ This project analyzes the global impact of the COVID-19 pandemic using real-worl
 The project focuses on understanding how factors such as population characteristics, vaccination progress, health indicators, and government policies influenced COVID-19 outcomes across different regions.
 This analysis demonstrates practical skills in data cleaning, exploratory data analysis, data visualization, and dashboard development using industry-relevant tools.
 
-**Objectives**
+** Objectives **
 
 The key objectives of this project are:
 - Analyze global trends in COVID-19 cases and deaths.
@@ -16,7 +16,7 @@ The key objectives of this project are:
 - Understand the influence of population density and health indicators on infection and mortality rates.
 - Present insights through data visualizations and an interactive dashboard.
 
-**Dataset**
+** Dataset **
 
 The dataset used in this project is sourced from Our World in Data, which provides comprehensive and regularly updated global COVID-19 statistics.
 Dataset includes information such as:
@@ -27,8 +27,6 @@ Population and demographic indicators
 Health-related metrics
 Government response indicators (Stringency Index)
 
-Dataset source:
-https://ourworldindata.org/covid-data⁠�
 
 ** Tools and Technologies**
 
