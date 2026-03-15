@@ -31,25 +31,25 @@ Government response indicators (Stringency Index)
 ** Tools and Technologies**
 
 The following tools were used in this project:
-Python – Data analysis and visualization
-Pandas – Data cleaning and preprocessing
-Matplotlib & Seaborn – Data visualization
-Power BI – Interactive dashboard creation
-Jupyter Notebook – Analysis environment
+- Python – Data analysis and visualization
+- Pandas – Data cleaning and preprocessing
+- Matplotlib & Seaborn – Data visualization
+- Power BI – Interactive dashboard creation
+- Jupyter Notebook – Analysis environment
 
 ** Project Workflow **
 
-1. Data Collection
+1. Data Collection:
 The OWID COVID-19 dataset was downloaded and used as the primary data source for analysis.
 
-2. Data Cleaning and Preprocessing
+2. Data Cleaning and Preprocessing:
 The dataset was cleaned to ensure accuracy and usability. Key steps included:
 Removing unnecessary columns
 Handling missing values
 Converting date columns into proper datetime format
 Selecting relevant variables for analysis
 
-3. Exploratory Data Analysis
+3. Exploratory Data Analysis:
 Exploratory analysis was conducted to understand patterns and trends within the data.
 Key analyses include:
 - Global case trends over time
@@ -60,20 +60,20 @@ Key analyses include:
 - Demographic and health factor analysis
 - Correlation analysis between pandemic variables
 
-4. Data Visualization
+4. Data Visualization:
 Multiple visualizations were created using Python to highlight trends and relationships within the data. These visualizations help communicate insights clearly and effectively.
 
-5. Dashboard Development
+5. Dashboard Development:
 An interactive Power BI dashboard was created to present the key findings in a user-friendly format. The dashboard enables exploration of COVID-19 trends across different regions and metrics.
 
 ** Key Insights**
 
 Some notable insights from the analysis include:
-The pandemic progressed in multiple waves across different regions of the world.
-Countries with larger populations and higher urbanization reported higher absolute case numbers.
-Vaccination campaigns contributed to reducing severe outcomes and mortality trends over time.
-Demographic factors such as median age and health conditions influenced COVID-19 mortality rates.
-Population density alone does not fully explain infection rates; policy responses and healthcare capacity also play significant roles.
+- The pandemic progressed in multiple waves across different regions of the world.
+- Countries with larger populations and higher urbanization reported higher absolute case numbers.
+- Vaccination campaigns contributed to reducing severe outcomes and mortality trends over time.
+- Demographic factors such as median age and health conditions influenced COVID-19 mortality rates.
+- Population density alone does not fully explain infection rates; policy responses and healthcare capacity also play significant roles.
 
 **Deliverables**
 
